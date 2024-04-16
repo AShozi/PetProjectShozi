@@ -34,6 +34,8 @@
 		D8CDF8E62BA2F171007B0FDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8CDF8E52BA2F171007B0FDB /* Assets.xcassets */; };
 		D8CDF8E92BA2F171007B0FDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8CDF8E72BA2F171007B0FDB /* LaunchScreen.storyboard */; };
 		D8CDF8F72BA2F3B7007B0FDB /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CDF8F62BA2F3B7007B0FDB /* model.swift */; };
+		D8E8C1D42BCE619700AC6C80 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E8C1D22BCE619700AC6C80 /* TableViewCell.swift */; };
+		D8E8C1D52BCE619700AC6C80 /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D8E8C1D32BCE619700AC6C80 /* TableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +68,8 @@
 		D8CDF8E82BA2F171007B0FDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8CDF8EA2BA2F171007B0FDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D8CDF8F62BA2F3B7007B0FDB /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
+		D8E8C1D22BCE619700AC6C80 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		D8E8C1D32BCE619700AC6C80 /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 			isa = PBXGroup;
 			children = (
 				D8A1911C2BC6B27100B190F0 /* CustomGameCell.swift */,
+				D8E8C1D22BCE619700AC6C80 /* TableViewCell.swift */,
+				D8E8C1D32BCE619700AC6C80 /* TableViewCell.xib */,
 			);
 			path = "Custom Cell";
 			sourceTree = "<group>";
@@ -257,6 +263,7 @@
 				D8A1911F2BC6BD4200B190F0 /* Login.storyboard in Resources */,
 				D8B4A8772BC40060004D988B /* SearchGame.storyboard in Resources */,
 				D8CDF8E92BA2F171007B0FDB /* LaunchScreen.storyboard in Resources */,
+				D8E8C1D52BCE619700AC6C80 /* TableViewCell.xib in Resources */,
 				D8CDF8E62BA2F171007B0FDB /* Assets.xcassets in Resources */,
 				D8CDF8E42BA2F170007B0FDB /* Main.storyboard in Resources */,
 			);
@@ -281,6 +288,7 @@
 				D8B4A8822BC4023C004D988B /* HomeScreenViewController.swift in Sources */,
 				D8CDF8DD2BA2F170007B0FDB /* AppDelegate.swift in Sources */,
 				D8B4A8732BC40025004D988B /* SearchGameViewModel.swift in Sources */,
+				D8E8C1D42BCE619700AC6C80 /* TableViewCell.swift in Sources */,
 				D8CDF8DF2BA2F170007B0FDB /* SceneDelegate.swift in Sources */,
 				D8B4A8752BC40041004D988B /* SearchGameViewController.swift in Sources */,
 				D8B4A86F2BBEB0BD004D988B /* ServiceErrors.swift in Sources */,
