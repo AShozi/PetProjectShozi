@@ -168,7 +168,6 @@
 		D8CDF8DB2BA2F170007B0FDB /* games */ = {
 			isa = PBXGroup;
 			children = (
-				D8E8C1C62BCD291E00AC6C80 /* TabBar */,
 				D8A191222BC87ABE00B190F0 /* Code Planning */,
 				D8B4A8922BC411B2004D988B /* Login */,
 				D8B4A8852BC402CE004D988B /* GameDetails */,
@@ -193,13 +192,6 @@
 				D8B4A86E2BBEB0BD004D988B /* ServiceErrors.swift */,
 			);
 			path = "Service layer";
-			sourceTree = "<group>";
-		};
-		D8E8C1C62BCD291E00AC6C80 /* TabBar */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = TabBar;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
