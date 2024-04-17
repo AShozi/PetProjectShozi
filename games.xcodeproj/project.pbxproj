@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D8A1911D2BC6B27100B190F0 /* CustomGameCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A1911C2BC6B27100B190F0 /* CustomGameCell.swift */; };
 		D8A1911F2BC6BD4200B190F0 /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8A1911E2BC6BD4200B190F0 /* Login.storyboard */; };
 		D8A191212BC6BF6300B190F0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A191202BC6BF6300B190F0 /* LoginViewController.swift */; };
 		D8A191242BC87AE500B190F0 /* planning.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A191232BC87AE500B190F0 /* planning.swift */; };
@@ -39,7 +38,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D8A1911C2BC6B27100B190F0 /* CustomGameCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomGameCell.swift; sourceTree = "<group>"; };
 		D8A1911E2BC6BD4200B190F0 /* Login.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Login.storyboard; sourceTree = "<group>"; };
 		D8A191202BC6BF6300B190F0 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		D8A191232BC87AE500B190F0 /* planning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = planning.swift; sourceTree = "<group>"; };
@@ -86,7 +84,6 @@
 		D8A1911B2BC6805500B190F0 /* Custom Cell */ = {
 			isa = PBXGroup;
 			children = (
-				D8A1911C2BC6B27100B190F0 /* CustomGameCell.swift */,
 				D8E8C1D22BCE619700AC6C80 /* TableViewCell.swift */,
 				D8E8C1D32BCE619700AC6C80 /* TableViewCell.xib */,
 			);
@@ -293,7 +290,6 @@
 				D8B4A8752BC40041004D988B /* SearchGameViewController.swift in Sources */,
 				D8B4A86F2BBEB0BD004D988B /* ServiceErrors.swift in Sources */,
 				D8B4A8892BC4031B004D988B /* GameDetailsModel.swift in Sources */,
-				D8A1911D2BC6B27100B190F0 /* CustomGameCell.swift in Sources */,
 				D8B4A86D2BBE98CD004D988B /* SearchGameRepository.swift in Sources */,
 				D8B4A87E2BC40208004D988B /* HomeScreenModel.swift in Sources */,
 				D8CDF8F72BA2F3B7007B0FDB /* model.swift in Sources */,
